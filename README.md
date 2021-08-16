@@ -18,8 +18,8 @@ The purpose of this anlysis is to analyze review data in the "US VIDEO GAME" rev
 
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
--Percentage of 5 star vine reviews = 0.07
--Percentage of  non 5 star vine reviews = 23.95
+- Percentage of 5 star vine reviews = 0.07
+- Percentage of  non 5 star vine reviews = 23.95
 
 
 # Summary
